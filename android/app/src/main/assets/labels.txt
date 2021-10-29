@@ -1,0 +1,5 @@
+Monster
+hero
+inhibitor
+soldier
+turret

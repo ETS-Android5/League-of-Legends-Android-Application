@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "323193754489",
+    "firebase_url": "https://lol-fypproject-default-rtdb.firebaseio.com",
+    "project_id": "lol-fypproject",
+    "storage_bucket": "lol-fypproject.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:323193754489:android:76afcf7973a88ac0ff15a8",
+        "android_client_info": {
+          "package_name": "com.example.test"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "323193754489-2jcogv8qlf7f2g7u5t9m2stat5qaecd1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBfLXrOrBp1y4Zv3LjS-eHfnPLFFoZ1PAQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "323193754489-2jcogv8qlf7f2g7u5t9m2stat5qaecd1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:323193754489:android:0e7497abb6527e00ff15a8",
+        "android_client_info": {
+          "package_name": "org.tensorflow.lite.examples.detection"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "323193754489-2jcogv8qlf7f2g7u5t9m2stat5qaecd1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBfLXrOrBp1y4Zv3LjS-eHfnPLFFoZ1PAQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "323193754489-2jcogv8qlf7f2g7u5t9m2stat5qaecd1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
